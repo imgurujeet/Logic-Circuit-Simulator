@@ -8,7 +8,7 @@ A fork of this project with additional features and improvements can be found [h
 
 ## Demo live
 
-A live version is available [here]().
+A live version is available [here](https://imgurujeet.github.io/Logic-Circuit-Simulator/).
 
 ## Usage
 
