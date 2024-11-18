@@ -8,7 +8,7 @@ A fork of this project with additional features and improvements can be found [h
 
 ## Demo live
 
-A live version is available [here](https://drendog.github.io/Logic-Circuit-Simulator/).
+A live version is available [here]().
 
 ## Usage
 
